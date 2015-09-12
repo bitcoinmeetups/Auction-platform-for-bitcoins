@@ -1,6 +1,8 @@
 Auction-platform-for-bitcoins
 =============================
 
+[![Join the chat at https://gitter.im/bitcoinmeetups/Auction-platform-for-bitcoins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bitcoinmeetups/Auction-platform-for-bitcoins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Buy bitcoins for other crypto currencies and vice versa
 
 What is it? 
